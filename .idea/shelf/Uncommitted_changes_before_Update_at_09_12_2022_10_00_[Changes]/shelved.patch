@@ -1,0 +1,19 @@
+Index: src/probados.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Title</title>\r\n</head>\r\n<body>\r\nhola mundo 2\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/probados.html b/src/probados.html
+--- a/src/probados.html	(revision d9cc8d65c54d4ceba46f6843b7c06e6913d5c99c)
++++ b/src/probados.html	(date 1670452157181)
+@@ -5,6 +5,6 @@
+     <title>Title</title>
+ </head>
+ <body>
+-hola mundo 2
++hola mundo
+ </body>
+ </html>
+\ No newline at end of file
